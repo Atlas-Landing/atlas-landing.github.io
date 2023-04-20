@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 12.3.1//EN
+N:Nelson;Dave;;;
+FN: Dave  Nelson 
+ORG:Nellipalooza;
+EMAIL;type=INTERNET;type=pref:childhoodisscary@hotmail.com
+TEL;type=WORK;type=VOICE;type=pref:(333) 555-1212
+ADR;type=HOME;type=pref:;;;Seattle;WA;98107;United States
+item1.URL;type=pref:https://www.nellipalooza.com
+item1.X-ABLabel:_$!<HomePage>!$_
+PHOTO;ENCODING=b;TYPE=JPEG:iVBORw0KGgoAAAAbnwwAAAABJRU5ErkJggg==
+END:VCARD
