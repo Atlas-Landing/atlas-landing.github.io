@@ -1344,7 +1344,7 @@ figcaption {
   padding-left: 80px;
   padding-right: 70px;
   font-family: Mont, sans-serif;
-  font-size: 2.2em;
+  font-size: 2.6em;
   font-weight: 900;
 }
 
@@ -1619,6 +1619,7 @@ figcaption {
 
 .section {
   height: 75vh;
+  margin-top: 35px;
   margin-bottom: 11vh;
 }
 
@@ -2005,6 +2006,10 @@ figcaption {
 
   .home {
     font-size: 1.6em;
+  }
+
+  .section {
+    margin-top: 66px;
   }
 }
 
@@ -2834,6 +2839,7 @@ figcaption {
 
   .section {
     height: 120vh;
+    margin-top: 0;
     margin-bottom: 0;
   }
 
